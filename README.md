@@ -13,10 +13,4 @@ incluindo modo claro e modo escuro.
 
 ![Demonstração da calculadora em modo claro](2026-09-11%2020-39-17.gif)
 
-## Como executar
-
-```powershell
-flutter pub get
-flutter run -d chrome
-```
 
